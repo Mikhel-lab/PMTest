@@ -34,7 +34,7 @@ namespace ParkingManager.Repository.Implemetation
                 AmountToPay = totalCost.AmountToPay,
                 Name = "Ticket",
                 HoursSpent = (int)Math.Ceiling(parkingDuration.TotalHours),
-                Date = entryTimeDateTime.Date // Store only the date portion
+                Date = entryTimeDateTime.Date,
             };
 
             _context.PackingTickets.Add(parkingTicket);
