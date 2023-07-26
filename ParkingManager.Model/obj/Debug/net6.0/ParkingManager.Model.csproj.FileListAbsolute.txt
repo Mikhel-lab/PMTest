@@ -1,0 +1,12 @@
+C:\Users\aiyetanm\source\repos\ParkingManager\ParkingManager.Model\bin\Debug\net6.0\ParkingManager.Model.deps.json
+C:\Users\aiyetanm\source\repos\ParkingManager\ParkingManager.Model\bin\Debug\net6.0\ParkingManager.Model.dll
+C:\Users\aiyetanm\source\repos\ParkingManager\ParkingManager.Model\bin\Debug\net6.0\ParkingManager.Model.pdb
+C:\Users\aiyetanm\source\repos\ParkingManager\ParkingManager.Model\obj\Debug\net6.0\ParkingManager.Model.csproj.AssemblyReference.cache
+C:\Users\aiyetanm\source\repos\ParkingManager\ParkingManager.Model\obj\Debug\net6.0\ParkingManager.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aiyetanm\source\repos\ParkingManager\ParkingManager.Model\obj\Debug\net6.0\ParkingManager.Model.AssemblyInfoInputs.cache
+C:\Users\aiyetanm\source\repos\ParkingManager\ParkingManager.Model\obj\Debug\net6.0\ParkingManager.Model.AssemblyInfo.cs
+C:\Users\aiyetanm\source\repos\ParkingManager\ParkingManager.Model\obj\Debug\net6.0\ParkingManager.Model.csproj.CoreCompileInputs.cache
+C:\Users\aiyetanm\source\repos\ParkingManager\ParkingManager.Model\obj\Debug\net6.0\ParkingManager.Model.dll
+C:\Users\aiyetanm\source\repos\ParkingManager\ParkingManager.Model\obj\Debug\net6.0\refint\ParkingManager.Model.dll
+C:\Users\aiyetanm\source\repos\ParkingManager\ParkingManager.Model\obj\Debug\net6.0\ParkingManager.Model.pdb
+C:\Users\aiyetanm\source\repos\ParkingManager\ParkingManager.Model\obj\Debug\net6.0\ref\ParkingManager.Model.dll
